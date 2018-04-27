@@ -1,0 +1,11 @@
+{
+  "name": "cultural",
+  "version": "1.0.0",
+  "description": "REST API to hold cultural and extra curricular events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nasif Ahmed, Nazrul Islam Joy, Rahnuma Nurain Maria, Shuvo Khan",
+  "license": "ISC"
+}
